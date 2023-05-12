@@ -1,5 +1,5 @@
 # LMQL Docker Image
-This repository contains a minimal Dockerfile to run LMQL's playground. Note that currently LMQL playground runs on port **3000**.
+This repository contains a minimal Dockerfile to run [LMQL](https://github.com/eth-sri/lmql)'s playground. Note that currently [LMQL](https://github.com/eth-sri/lmql) playground runs on port **3000**.
 
 ## Building the image
 The following command lets you create an image with this Dockerfile:
